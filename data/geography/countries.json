@@ -1,0 +1,12 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "answers": ["Paris", "London", "Berlin", "Madrid"],
+        "correctAnswer": "Paris"
+    },
+    {
+        "question": "Which country has the largest population?",
+        "answers": ["India", "China", "USA", "Russia"],
+        "correctAnswer": "China"
+    }
+]

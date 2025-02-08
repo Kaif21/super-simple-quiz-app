@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is the powerhouse of the cell?",
+        "answers": ["Nucleus", "Ribosome", "Mitochondria", "Endoplasmic Reticulum"],
+        "correctAnswer": "Mitochondria"
+    },
+    {
+        "question": "Which molecule carries genetic information?",
+        "answers": ["RNA", "DNA", "Protein", "Lipid"],
+        "correctAnswer": "DNA"
+    },
+    {
+        "question": "What is the largest organ in the human body?",
+        "answers": ["Liver", "Skin", "Brain", "Heart"],
+        "correctAnswer": "Skin"
+    },
+    {
+        "question": "Which gas do plants absorb during photosynthesis?",
+        "answers": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+        "correctAnswer": "Carbon Dioxide"
+    },
+    {
+        "question": "What is the study of living organisms called?",
+        "answers": ["Geology", "Biology", "Chemistry", "Physics"],
+        "correctAnswer": "Biology"
+    },
+    {
+        "question": "Which blood type is considered the universal donor?",
+        "answers": ["A", "B", "AB", "O"],
+        "correctAnswer": "O"
+    },
+    {
+        "question": "What is the smallest unit of life?",
+        "answers": ["Atom", "Cell", "Molecule", "Organ"],
+        "correctAnswer": "Cell"
+    },
+    {
+        "question": "Which part of the brain controls balance?",
+        "answers": ["Cerebrum", "Cerebellum", "Medulla", "Thalamus"],
+        "correctAnswer": "Cerebellum"
+    },
+    {
+        "question": "What is the process by which plants make food?",
+        "answers": ["Respiration", "Photosynthesis", "Transpiration", "Fermentation"],
+        "correctAnswer": "Photosynthesis"
+    },
+    {
+        "question": "Which vitamin is produced by the human skin when exposed to sunlight?",
+        "answers": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin E"],
+        "correctAnswer": "Vitamin D"
+    }
+]

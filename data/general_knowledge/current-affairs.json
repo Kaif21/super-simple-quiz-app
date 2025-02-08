@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Who is the current President of the United States (as of 2023)?",
+        "answers": ["Joe Biden", "Donald Trump", "Barack Obama", "Kamala Harris"],
+        "correctAnswer": "Joe Biden"
+    },
+    {
+        "question": "Which country hosted the 2022 FIFA World Cup?",
+        "answers": ["Brazil", "Qatar", "Russia", "Germany"],
+        "correctAnswer": "Qatar"
+    },
+    {
+        "question": "Which country recently launched the Chandrayaan-3 mission to the Moon?",
+        "answers": ["USA", "China", "India", "Russia"],
+        "correctAnswer": "India"
+    },
+    {
+        "question": "What is the name of the COVID-19 vaccine developed by Pfizer-BioNTech?",
+        "answers": ["Covishield", "Sputnik V", "Comirnaty", "Sinopharm"],
+        "correctAnswer": "Comirnaty"
+    },
+    {
+        "question": "Which country is facing an economic crisis with hyperinflation as of 2023?",
+        "answers": ["Venezuela", "Argentina", "Zimbabwe", "Turkey"],
+        "correctAnswer": "Venezuela"
+    },
+    {
+        "question": "Which city hosted the 2024 Summer Olympics?",
+        "answers": ["Tokyo", "Paris", "Los Angeles", "Beijing"],
+        "correctAnswer": "Paris"
+    },
+    {
+        "question": "Which tech company recently launched the ChatGPT AI model?",
+        "answers": ["Google", "Microsoft", "OpenAI", "Amazon"],
+        "correctAnswer": "OpenAI"
+    },
+    {
+        "question": "Which country recently joined NATO in 2023?",
+        "answers": ["Ukraine", "Finland", "Sweden", "Austria"],
+        "correctAnswer": "Finland"
+    },
+    {
+        "question": "Which country is the largest producer of crude oil as of 2023?",
+        "answers": ["USA", "Russia", "Saudi Arabia", "Iraq"],
+        "correctAnswer": "USA"
+    },
+    {
+        "question": "Which country recently experienced a devastating earthquake in February 2023?",
+        "answers": ["Turkey", "Italy", "Japan", "Mexico"],
+        "correctAnswer": "Turkey"
+    }
+]
