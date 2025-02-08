@@ -3,20 +3,54 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Amazing Quiz App</title>
+    <title>Super simple quiz app</title>
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body class="bg-gradient-to-r from-blue-500 to-purple-600 min-h-screen flex items-center justify-center">
-    <div class="bg-white rounded-lg shadow-2xl p-8 max-w-md w-full">
-        <h1 class="text-3xl font-bold text-center mb-6 text-gray-800">Amazing Quiz App</h1>
-        <div class="quiz">
-            <h2 id="questions" class="text-xl font-semibold mb-4 text-gray-700"></h2>
-            <div id="answersBtnList" class="space-y-3"></div>
-            <button id="next-btn" class="mt-6 w-full bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full transition duration-300 ease-in-out transform hover:scale-105">
-                Next Question
-            </button>
+<body class="bg-gray-100 min-h-screen flex items-center justify-center p-4">
+    <!-- Category Selection Page -->
+    <div id="category-page" class="bg-white rounded-xl shadow-md p-6 max-w-4xl w-full transition-all duration-300">
+        <div class="text-center mb-8">
+            <h1 class="text-3xl font-bold text-gray-800 mb-2">Super simple quiz app</h1>
+            <p class="text-gray-600">Select a category to begin</p>
+        </div>
+        
+        <div id="category-list" class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <!-- Categories will be dynamically added here as cards -->
         </div>
     </div>
+
+    <!-- Subcategory Selection Page -->
+    <div id="subcategory-page" class="bg-white rounded-xl shadow-md p-6 max-w-4xl w-full hidden transition-all duration-300">
+        <div class="flex items-center justify-between mb-6">
+            <button id="back-to-categories" class="text-gray-600 hover:text-blue-600 transition-colors">
+                <i class="fas fa-arrow-left mr-2"></i>Back
+            </button>
+            <h2 id="subcategory-title" class="text-xl font-semibold text-gray-800"></h2>
+        </div>
+        
+        <div id="subcategory-list" class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <!-- Subcategories will be dynamically added here as cards -->
+        </div>
+    </div>
+
+    <!-- Quiz Page -->
+    <div id="quiz-page" class="bg-white rounded-xl shadow-md p-6 max-w-2xl w-full hidden transition-all duration-300">
+        <div class="mb-6">
+            <div class="flex justify-between text-sm text-gray-600 mb-2">
+                <span>Question <span id="current-question">1</span>/<span id="total-questions">10</span></span>
+            </div>
+            <div class="h-2 bg-gray-200 rounded-full">
+                <div id="progress-bar" class="h-2 bg-blue-500 rounded-full transition-all duration-500" style="width: 0%"></div>
+            </div>
+        </div>
+
+        <h2 id="questions" class="text-lg font-semibold text-gray-800 mb-6"></h2>
+        
+        <div id="answersBtnList" class="space-y-3">
+            <!-- Answer buttons will be dynamically added here -->
+        </div>
+    </div>
+
     <script src="script.js"></script>
 </body>
 </html>

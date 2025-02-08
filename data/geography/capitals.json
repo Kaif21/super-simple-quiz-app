@@ -1,0 +1,12 @@
+[
+    {
+        "question": "What is the capital of Japan?",
+        "answers": ["Beijing", "Tokyo", "Seoul", "Bangkok"],
+        "correctAnswer": "Tokyo"
+    },
+    {
+        "question": "What is the capital of Australia?",
+        "answers": ["Sydney", "Melbourne", "Canberra", "Perth"],
+        "correctAnswer": "Canberra"
+    }
+]
