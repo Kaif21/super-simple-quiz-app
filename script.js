@@ -22,26 +22,11 @@ let userAnswers = []; // Track user's answers
 
 // Available Categories and Subcategories
 const categories = {
-    geography: ["countries", "capitals", "landmarks", "rivers", "mountains", "continents", "flags", "cities", "deserts", "oceans"],
-    science: ["biology", "chemistry", "physics", "astronomy", "earth science", "environmental science", "medicine", "zoology", "botany", "genetics"],
-    history: ["ancient history", "world wars", "historical figures", "revolutions", "empires", "medieval history", "modern history", "archaeology", "inventions", "explorers"],
-    pop_culture: ["movies", "tv shows", "music", "celebrities", "comics", "video games", "anime", "internet memes", "fashion", "awards"],
-    literature: ["classic literature", "modern literature", "poetry", "authors", "book quotes", "fictional characters", "genres", "nobel prize winners", "best sellers", "mythology"],
-    sports: ["football", "basketball", "cricket", "tennis", "olympics", "world cup", "athletics", "golf", "rugby", "extreme sports"],
-    technology: ["computers", "programming", "gadgets", "artificial intelligence", "space technology", "internet", "robotics", "cybersecurity", "blockchain", "video games"],
-    food_and_drink: ["cuisines", "recipes", "beverages", "desserts", "street food", "fine dining", "fast food", "healthy eating", "alcoholic drinks", "food history"],
-    art_and_design: ["painting", "sculpture", "architecture", "photography", "graphic design", "fashion design", "modern art", "classical art", "art movements", "famous artists"],
-    mathematics: ["algebra", "geometry", "calculus", "statistics", "trigonometry", "number theory", "probability", "puzzles", "famous mathematicians", "math history"],
-    mythology: ["greek mythology", "norse mythology", "egyptian mythology", "hindu mythology", "celtic mythology", "mythical creatures", "gods and goddesses", "folklore", "legends", "fairy tales"],
-    religion: ["christianity", "islam", "hinduism", "buddhism", "judaism", "sikhism", "taoism", "shinto", "religious festivals", "sacred texts"],
-    entertainment: ["movies", "tv shows", "music", "theater", "stand-up comedy", "magic", "circus", "dance", "opera", "reality shows"],
-    lifestyle: ["travel", "fitness", "health", "beauty", "home decor", "gardening", "pets", "hobbies", "self-improvement", "minimalism"],
-    business: ["entrepreneurship", "marketing", "finance", "economics", "startups", "management", "investing", "stock market", "leadership", "business history"],
-    education: ["languages", "science", "history", "mathematics", "literature", "philosophy", "psychology", "engineering", "medicine", "law"],
-    nature: ["animals", "plants", "ecosystems", "weather", "climate change", "geology", "oceans", "forests", "mountains", "national parks"],
-    trivia: ["random facts", "world records", "fun facts", "historical trivia", "science trivia", "pop culture trivia", "sports trivia", "geography trivia", "literature trivia", "movie trivia"],
-    personality: ["what character are you?", "what career suits you?", "what food are you?", "what country should you live in?", "what era do you belong to?", "what superpower do you have?", "what animal are you?", "what movie genre are you?", "what song defines you?", "what is your personality type?"],
-    seasonal: ["christmas", "halloween", "easter", "new year", "valentine's day", "thanksgiving", "independence day", "holiday traditions", "festivals around the world", "seasonal recipes"],
+    geography: ["countries", "capitals", "landmarks"],
+    science: ["biology", "chemistry", "physics", ],
+    history: ["ancient_history", "historical_figures", ],
+    pop_culture: ["movies", "tv_shows", ],
+    literature: ["classic_literature", "modern_literature",],
     general_knowledge: ["current-affairs"]
 };
 

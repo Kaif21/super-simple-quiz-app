@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Who wrote 'The Catcher in the Rye'?",
+        "answers": ["J.D. Salinger", "F. Scott Fitzgerald", "Ernest Hemingway", "Mark Twain"],
+        "correctAnswer": "J.D. Salinger"
+    },
+    {
+        "question": "What is the name of the dystopian novel by George Orwell?",
+        "answers": ["1984", "Brave New World", "Fahrenheit 451", "The Handmaid's Tale"],
+        "correctAnswer": "1984"
+    },
+    {
+        "question": "Who wrote 'To Kill a Mockingbird'?",
+        "answers": ["Harper Lee", "Truman Capote", "John Steinbeck", "Toni Morrison"],
+        "correctAnswer": "Harper Lee"
+    },
+    {
+        "question": "What is the name of the protagonist in 'The Great Gatsby'?",
+        "answers": ["Nick Carraway", "Jay Gatsby", "Tom Buchanan", "Daisy Buchanan"],
+        "correctAnswer": "Jay Gatsby"
+    },
+    {
+        "question": "Who wrote 'The Road'?",
+        "answers": ["Cormac McCarthy", "John Steinbeck", "Ernest Hemingway", "Kurt Vonnegut"],
+        "correctAnswer": "Cormac McCarthy"
+    },
+    {
+        "question": "What is the name of the fictional country in 'The Handmaid's Tale'?",
+        "answers": ["Gilead", "Panem", "Oceania", "Westeros"],
+        "correctAnswer": "Gilead"
+    },
+    {
+        "question": "Who wrote 'The Hunger Games'?",
+        "answers": ["Suzanne Collins", "J.K. Rowling", "Stephenie Meyer", "Veronica Roth"],
+        "correctAnswer": "Suzanne Collins"
+    },
+    {
+        "question": "What is the name of the protagonist in 'The Alchemist'?",
+        "answers": ["Santiago", "Paulo", "Miguel", "Fernando"],
+        "correctAnswer": "Santiago"
+    },
+    {
+        "question": "Who wrote 'The Kite Runner'?",
+        "answers": ["Khaled Hosseini", "Jhumpa Lahiri", "Arundhati Roy", "Chimamanda Ngozi Adichie"],
+        "correctAnswer": "Khaled Hosseini"
+    },
+    {
+        "question": "What is the name of the fictional school in 'Harry Potter'?",
+        "answers": ["Hogwarts", "Beauxbatons", "Durmstrang", "Ilvermorny"],
+        "correctAnswer": "Hogwarts"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Who directed the movie 'Inception'?",
+        "answers": ["Steven Spielberg", "Christopher Nolan", "Quentin Tarantino", "James Cameron"],
+        "correctAnswer": "Christopher Nolan"
+    },
+    {
+        "question": "Which movie features the character Tony Stark?",
+        "answers": ["The Dark Knight", "Iron Man", "Avengers", "Spider-Man"],
+        "correctAnswer": "Iron Man"
+    },
+    {
+        "question": "What is the highest-grossing movie of all time?",
+        "answers": ["Avatar", "Avengers: Endgame", "Titanic", "Star Wars: The Force Awakens"],
+        "correctAnswer": "Avatar"
+    },
+    {
+        "question": "Which actor played Jack in 'Titanic'?",
+        "answers": ["Leonardo DiCaprio", "Brad Pitt", "Tom Cruise", "Johnny Depp"],
+        "correctAnswer": "Leonardo DiCaprio"
+    },
+    {
+        "question": "What is the name of the fictional African country in 'Black Panther'?",
+        "answers": ["Wakanda", "Zamunda", "Genovia", "Elbonia"],
+        "correctAnswer": "Wakanda"
+    },
+    {
+        "question": "Which movie won the Best Picture Oscar in 2020?",
+        "answers": ["Parasite", "1917", "Joker", "The Irishman"],
+        "correctAnswer": "Parasite"
+    },
+    {
+        "question": "What is the name of the hobbit played by Elijah Wood in 'The Lord of the Rings'?",
+        "answers": ["Frodo", "Sam", "Merry", "Pippin"],
+        "correctAnswer": "Frodo"
+    },
+    {
+        "question": "Which movie features the song 'Let It Go'?",
+        "answers": ["Moana", "Frozen", "Tangled", "Coco"],
+        "correctAnswer": "Frozen"
+    },
+    {
+        "question": "Who played the Joker in 'The Dark Knight'?",
+        "answers": ["Heath Ledger", "Joaquin Phoenix", "Jack Nicholson", "Jared Leto"],
+        "correctAnswer": "Heath Ledger"
+    },
+    {
+        "question": "Which movie is about a young lion named Simba?",
+        "answers": ["The Jungle Book", "The Lion King", "Madagascar", "Zootopia"],
+        "correctAnswer": "The Lion King"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Who was the first President of the United States?",
+        "answers": ["Thomas Jefferson", "George Washington", "Abraham Lincoln", "John Adams"],
+        "correctAnswer": "George Washington"
+    },
+    {
+        "question": "Who was the leader of the Soviet Union during World War II?",
+        "answers": ["Vladimir Lenin", "Joseph Stalin", "Mikhail Gorbachev", "Nikita Khrushchev"],
+        "correctAnswer": "Joseph Stalin"
+    },
+    {
+        "question": "Who wrote the 'Declaration of Independence'?",
+        "answers": ["George Washington", "Thomas Jefferson", "Benjamin Franklin", "John Adams"],
+        "correctAnswer": "Thomas Jefferson"
+    },
+    {
+        "question": "Who was the first female Prime Minister of the United Kingdom?",
+        "answers": ["Margaret Thatcher", "Theresa May", "Angela Merkel", "Indira Gandhi"],
+        "correctAnswer": "Margaret Thatcher"
+    },
+    {
+        "question": "Who was the leader of the Civil Rights Movement in the United States?",
+        "answers": ["Malcolm X", "Martin Luther King Jr.", "Rosa Parks", "Harriet Tubman"],
+        "correctAnswer": "Martin Luther King Jr."
+    },
+    {
+        "question": "Who was the first Emperor of China?",
+        "answers": ["Qin Shi Huang", "Genghis Khan", "Kublai Khan", "Confucius"],
+        "correctAnswer": "Qin Shi Huang"
+    },
+    {
+        "question": "Who was the first woman to win a Nobel Prize?",
+        "answers": ["Marie Curie", "Rosalind Franklin", "Florence Nightingale", "Jane Goodall"],
+        "correctAnswer": "Marie Curie"
+    },
+    {
+        "question": "Who was the founder of the Mongol Empire?",
+        "answers": ["Kublai Khan", "Genghis Khan", "Attila the Hun", "Alexander the Great"],
+        "correctAnswer": "Genghis Khan"
+    },
+    {
+        "question": "Who was the first person to walk on the moon?",
+        "answers": ["Neil Armstrong", "Buzz Aldrin", "Yuri Gagarin", "Alan Shepard"],
+        "correctAnswer": "Neil Armstrong"
+    },
+    {
+        "question": "Who was the leader of Nazi Germany?",
+        "answers": ["Benito Mussolini", "Adolf Hitler", "Joseph Stalin", "Winston Churchill"],
+        "correctAnswer": "Adolf Hitler"
+    }
+]

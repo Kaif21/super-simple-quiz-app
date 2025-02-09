@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Who wrote 'Pride and Prejudice'?",
+        "answers": ["Jane Austen", "Charlotte Brontë", "Emily Brontë", "Charles Dickens"],
+        "correctAnswer": "Jane Austen"
+    },
+    {
+        "question": "What is the name of the ship in 'Moby-Dick'?",
+        "answers": ["Pequod", "Nautilus", "Black Pearl", "HMS Beagle"],
+        "correctAnswer": "Pequod"
+    },
+    {
+        "question": "Who is the author of '1984'?",
+        "answers": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "Kurt Vonnegut"],
+        "correctAnswer": "George Orwell"
+    },
+    {
+        "question": "What is the first name of the protagonist in 'The Great Gatsby'?",
+        "answers": ["Jay", "Nick", "Tom", "Daisy"],
+        "correctAnswer": "Jay"
+    },
+    {
+        "question": "Which novel features the character Atticus Finch?",
+        "answers": ["To Kill a Mockingbird", "The Catcher in the Rye", "The Grapes of Wrath", "Of Mice and Men"],
+        "correctAnswer": "To Kill a Mockingbird"
+    },
+    {
+        "question": "Who wrote 'War and Peace'?",
+        "answers": ["Fyodor Dostoevsky", "Leo Tolstoy", "Anton Chekhov", "Nikolai Gogol"],
+        "correctAnswer": "Leo Tolstoy"
+    },
+    {
+        "question": "What is the setting of 'Wuthering Heights'?",
+        "answers": ["London", "Yorkshire Moors", "Paris", "New York"],
+        "correctAnswer": "Yorkshire Moors"
+    },
+    {
+        "question": "Who is the author of 'Frankenstein'?",
+        "answers": ["Mary Shelley", "Bram Stoker", "Edgar Allan Poe", "H.P. Lovecraft"],
+        "correctAnswer": "Mary Shelley"
+    },
+    {
+        "question": "What is the name of the protagonist in 'Don Quixote'?",
+        "answers": ["Sancho Panza", "Don Quixote", "Miguel de Cervantes", "Dulcinea"],
+        "correctAnswer": "Don Quixote"
+    },
+    {
+        "question": "Which novel begins with the line, 'It was the best of times, it was the worst of times'?",
+        "answers": ["A Tale of Two Cities", "Great Expectations", "Oliver Twist", "David Copperfield"],
+        "correctAnswer": "A Tale of Two Cities"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is the name of the fictional town in 'Stranger Things'?",
+        "answers": ["Hawkins", "Springfield", "Gotham", "Smallville"],
+        "correctAnswer": "Hawkins"
+    },
+    {
+        "question": "Who played the role of Walter White in 'Breaking Bad'?",
+        "answers": ["Bryan Cranston", "Aaron Paul", "Bob Odenkirk", "Giancarlo Esposito"],
+        "correctAnswer": "Bryan Cranston"
+    },
+    {
+        "question": "What is the name of the coffee shop in 'Friends'?",
+        "answers": ["Central Perk", "Monk's Cafe", "The Coffee Bean", "Starbucks"],
+        "correctAnswer": "Central Perk"
+    },
+    {
+        "question": "Which TV show features the character Sheldon Cooper?",
+        "answers": ["The Big Bang Theory", "Friends", "How I Met Your Mother", "Two and a Half Men"],
+        "correctAnswer": "The Big Bang Theory"
+    },
+    {
+        "question": "What is the name of the dragon in 'Game of Thrones'?",
+        "answers": ["Drogon", "Smaug", "Falkor", "Toothless"],
+        "correctAnswer": "Drogon"
+    },
+    {
+        "question": "Which TV show is set in the fictional town of Stars Hollow?",
+        "answers": ["Gilmore Girls", "Riverdale", "Twin Peaks", "The Vampire Diaries"],
+        "correctAnswer": "Gilmore Girls"
+    },
+    {
+        "question": "Who is the main character in 'The Office' (US)?",
+        "answers": ["Michael Scott", "Jim Halpert", "Dwight Schrute", "Pam Beesly"],
+        "correctAnswer": "Michael Scott"
+    },
+    {
+        "question": "What is the name of the high school in 'Buffy the Vampire Slayer'?",
+        "answers": ["Sunnydale High", "West Beverly High", "William McKinley High", "Springfield High"],
+        "correctAnswer": "Sunnydale High"
+    },
+    {
+        "question": "Which TV show features the character Don Draper?",
+        "answers": ["Mad Men", "Breaking Bad", "The Sopranos", "The Wire"],
+        "correctAnswer": "Mad Men"
+    },
+    {
+        "question": "What is the name of the island in 'Lost'?",
+        "answers": ["Mystery Island", "Island of the Dead", "The Island", "Skull Island"],
+        "correctAnswer": "The Island"
+    }
+]

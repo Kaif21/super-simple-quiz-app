@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is the chemical symbol for water?",
+        "answers": ["H2O", "CO2", "O2", "H2"],
+        "correctAnswer": "H2O"
+    },
+    {
+        "question": "What is the atomic number of carbon?",
+        "answers": ["6", "12", "14", "8"],
+        "correctAnswer": "6"
+    },
+    {
+        "question": "Which gas is most abundant in Earth's atmosphere?",
+        "answers": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Argon"],
+        "correctAnswer": "Nitrogen"
+    },
+    {
+        "question": "What is the pH value of pure water?",
+        "answers": ["5", "7", "9", "10"],
+        "correctAnswer": "7"
+    },
+    {
+        "question": "What is the lightest element on the periodic table?",
+        "answers": ["Helium", "Hydrogen", "Lithium", "Oxygen"],
+        "correctAnswer": "Hydrogen"
+    },
+    {
+        "question": "What is the chemical formula for table salt?",
+        "answers": ["NaCl", "H2O", "CO2", "NaOH"],
+        "correctAnswer": "NaCl"
+    },
+    {
+        "question": "Which element is known as the 'king of chemicals'?",
+        "answers": ["Oxygen", "Hydrogen", "Sulfur", "Sodium"],
+        "correctAnswer": "Sulfur"
+    },
+    {
+        "question": "What is the process of turning a liquid into a gas called?",
+        "answers": ["Condensation", "Evaporation", "Sublimation", "Freezing"],
+        "correctAnswer": "Evaporation"
+    },
+    {
+        "question": "What is the main component of natural gas?",
+        "answers": ["Methane", "Ethane", "Propane", "Butane"],
+        "correctAnswer": "Methane"
+    },
+    {
+        "question": "Which metal is liquid at room temperature?",
+        "answers": ["Mercury", "Gold", "Silver", "Iron"],
+        "correctAnswer": "Mercury"
+    }
+]

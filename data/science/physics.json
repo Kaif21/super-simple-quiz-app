@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is the unit of force?",
+        "answers": ["Joule", "Newton", "Watt", "Pascal"],
+        "correctAnswer": "Newton"
+    },
+    {
+        "question": "What is the speed of light?",
+        "answers": ["300,000 km/s", "150,000 km/s", "500,000 km/s", "1,000,000 km/s"],
+        "correctAnswer": "300,000 km/s"
+    },
+    {
+        "question": "Who developed the theory of relativity?",
+        "answers": ["Isaac Newton", "Albert Einstein", "Stephen Hawking", "Galileo Galilei"],
+        "correctAnswer": "Albert Einstein"
+    },
+    {
+        "question": "What is the SI unit of energy?",
+        "answers": ["Newton", "Joule", "Watt", "Pascal"],
+        "correctAnswer": "Joule"
+    },
+    {
+        "question": "What is the force that opposes motion?",
+        "answers": ["Gravity", "Friction", "Magnetism", "Tension"],
+        "correctAnswer": "Friction"
+    },
+    {
+        "question": "What is the formula for calculating work?",
+        "answers": ["Force × Distance", "Mass × Acceleration", "Pressure × Volume", "Velocity × Time"],
+        "correctAnswer": "Force × Distance"
+    },
+    {
+        "question": "What is the unit of electric current?",
+        "answers": ["Volt", "Ampere", "Ohm", "Watt"],
+        "correctAnswer": "Ampere"
+    },
+    {
+        "question": "What is the law of inertia also known as?",
+        "answers": ["Newton's First Law", "Newton's Second Law", "Newton's Third Law", "Ohm's Law"],
+        "correctAnswer": "Newton's First Law"
+    },
+    {
+        "question": "What is the unit of frequency?",
+        "answers": ["Hertz", "Decibel", "Watt", "Joule"],
+        "correctAnswer": "Hertz"
+    },
+    {
+        "question": "What is the name of the particle that carries light energy?",
+        "answers": ["Electron", "Proton", "Photon", "Neutron"],
+        "correctAnswer": "Photon"
+    }
+]

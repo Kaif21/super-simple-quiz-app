@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Which ancient civilization built the pyramids?",
+        "answers": ["Greeks", "Romans", "Egyptians", "Mayans"],
+        "correctAnswer": "Egyptians"
+    },
+    {
+        "question": "Who was the first emperor of Rome?",
+        "answers": ["Julius Caesar", "Augustus", "Nero", "Constantine"],
+        "correctAnswer": "Augustus"
+    },
+    {
+        "question": "What was the capital of the Byzantine Empire?",
+        "answers": ["Rome", "Athens", "Constantinople", "Alexandria"],
+        "correctAnswer": "Constantinople"
+    },
+    {
+        "question": "Which ancient wonder was located in Babylon?",
+        "answers": ["Great Pyramid", "Hanging Gardens", "Colossus of Rhodes", "Lighthouse of Alexandria"],
+        "correctAnswer": "Hanging Gardens"
+    },
+    {
+        "question": "Who was the Greek god of the sea?",
+        "answers": ["Zeus", "Poseidon", "Hades", "Apollo"],
+        "correctAnswer": "Poseidon"
+    },
+    {
+        "question": "What was the primary language of ancient Rome?",
+        "answers": ["Greek", "Latin", "Hebrew", "Aramaic"],
+        "correctAnswer": "Latin"
+    },
+    {
+        "question": "Which ancient civilization invented the wheel?",
+        "answers": ["Egyptians", "Sumerians", "Greeks", "Chinese"],
+        "correctAnswer": "Sumerians"
+    },
+    {
+        "question": "What was the name of the ancient Egyptian writing system?",
+        "answers": ["Cuneiform", "Hieroglyphics", "Sanskrit", "Latin"],
+        "correctAnswer": "Hieroglyphics"
+    },
+    {
+        "question": "Who was the famous queen of ancient Egypt?",
+        "answers": ["Nefertiti", "Cleopatra", "Hatshepsut", "Isis"],
+        "correctAnswer": "Cleopatra"
+    },
+    {
+        "question": "Which ancient city was destroyed by a volcanic eruption?",
+        "answers": ["Athens", "Sparta", "Pompeii", "Troy"],
+        "correctAnswer": "Pompeii"
+    }
+]
