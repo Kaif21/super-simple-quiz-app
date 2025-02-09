@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Which landmark is located in India?",
+        "answers": ["Eiffel Tower", "Taj Mahal", "Great Wall of China", "Statue of Liberty"],
+        "correctAnswer": "Taj Mahal"
+    },
+    {
+        "question": "What is the name of the ancient wonder located in Egypt?",
+        "answers": ["Colosseum", "Great Pyramid of Giza", "Stonehenge", "Machu Picchu"],
+        "correctAnswer": "Great Pyramid of Giza"
+    },
+    {
+        "question": "Which landmark is in Paris?",
+        "answers": ["Big Ben", "Eiffel Tower", "Leaning Tower of Pisa", "Sydney Opera House"],
+        "correctAnswer": "Eiffel Tower"
+    },
+    {
+        "question": "What is the name of the famous clock tower in London?",
+        "answers": ["Big Ben", "Leaning Tower of Pisa", "Statue of Liberty", "Eiffel Tower"],
+        "correctAnswer": "Big Ben"
+    },
+    {
+        "question": "Which landmark is located in the United States?",
+        "answers": ["Machu Picchu", "Statue of Liberty", "Great Wall of China", "Taj Mahal"],
+        "correctAnswer": "Statue of Liberty"
+    },
+    {
+        "question": "What is the name of the ancient city in Peru?",
+        "answers": ["Machu Picchu", "Petra", "Colosseum", "Stonehenge"],
+        "correctAnswer": "Machu Picchu"
+    },
+    {
+        "question": "Which landmark is located in Rome?",
+        "answers": ["Colosseum", "Eiffel Tower", "Big Ben", "Taj Mahal"],
+        "correctAnswer": "Colosseum"
+    },
+    {
+        "question": "What is the name of the famous leaning tower in Italy?",
+        "answers": ["Leaning Tower of Pisa", "Eiffel Tower", "Big Ben", "Statue of Liberty"],
+        "correctAnswer": "Leaning Tower of Pisa"
+    },
+    {
+        "question": "Which landmark is located in Australia?",
+        "answers": ["Sydney Opera House", "Eiffel Tower", "Big Ben", "Statue of Liberty"],
+        "correctAnswer": "Sydney Opera House"
+    },
+    {
+        "question": "What is the name of the ancient stone circle in England?",
+        "answers": ["Stonehenge", "Colosseum", "Machu Picchu", "Petra"],
+        "correctAnswer": "Stonehenge"
+    }
+]
